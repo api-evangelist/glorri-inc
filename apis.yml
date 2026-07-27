@@ -1,7 +1,18 @@
 aid: glorri-inc
 name: GLORRI, INC.
-description: GLORRI, INC. is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Glorri is a cloud-based applicant tracking system (ATS) and recruitment
+  automation platform for talent acquisition teams. It spans the entire hiring
+  process, from sourcing candidates across multiple channels and job boards, to
+  automating recruiting workflows and candidate communication, AI-assisted
+  applicant screening, and analytics on team performance and hiring efficiency,
+  with GDPR-compliant data handling. Glorri markets plans (Pay as you go, Flex,
+  Corporate, and Enterprise Plus) for companies of different sizes, with custom
+  integrations and a branded career page available on higher tiers. The company
+  was surfaced as a portfolio company of 500 Global and added to the API
+  Evangelist network; as of this enrichment pass Glorri publishes a web
+  application and marketing site but no public developer portal, API
+  documentation, or machine-readable API specification.
 url: https://raw.githubusercontent.com/api-evangelist/glorri-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +20,32 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://glorri.com/favicons/android-chrome-512x512.png
 tags:
 - Company
+- Human Resources
+- Recruitment
+- Applicant Tracking System
+- ATS
+- Talent Acquisition
+- Hiring
+- HR Tech
+- Recruiting Automation
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,34 @@ maintainers:
 common:
 - type: Website
   url: https://glorri.com
+- type: Solutions
+  url: https://glorri.com/en/solutions
+- type: About
+  url: https://glorri.com/en/about
+- type: Pricing
+  url: https://glorri.com/en/pricing
+- type: SignUp
+  url: https://atsapp.glorri.com/sign-up/company
+- type: Login
+  url: https://atsapp.glorri.com/user/login/company
+- type: Support
+  url: https://glorri.com/en/contact
+- type: TermsOfService
+  url: https://glorri.com/en/terms
+- type: PrivacyPolicy
+  url: https://glorri.com/en/privacy
+- type: GDPR
+  url: https://glorri.com/en/gdpr
+- type: Careers
+  url: https://glorri.com/en/careers
+- type: LinkedIn
+  url: https://www.linkedin.com/company/glorri/
+- type: Facebook
+  url: https://www.facebook.com/recruitingapp
+- type: YouTube
+  url: https://www.youtube.com/channel/UCo3AGqOk2k-jaVqwoej851Q
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
