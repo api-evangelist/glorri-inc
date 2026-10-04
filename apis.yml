@@ -1,5 +1,5 @@
 aid: glorri-inc
-name: GLORRI, INC.
+name: GLORRI
 description: >-
   Glorri is a cloud-based applicant tracking system (ATS) and recruitment
   automation platform for talent acquisition teams. It spans the entire hiring
@@ -49,8 +49,8 @@ image: https://glorri.com/favicons/android-chrome-512x512.png
 tags:
 - Company
 - Human Resources
-- Recruitment
-- ATS
+- Recruiting
+- Applicant Tracking
 - Talent Acquisition
 - Hiring
 - Recruiting Automation
@@ -106,3 +106,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: GLORRI, INC.
