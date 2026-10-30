@@ -1,4 +1,4 @@
-# GLORRI, INC.
+# GLORRI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,75 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GLORRI, INC. is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Glorri is a cloud-based applicant tracking system (ATS) and recruitment automation platform for talent acquisition teams. It spans the entire hiring process, from sourcing candidates across multiple channels and job boards, to automating recruiting workflows and candidate communication, AI-assisted applicant screening, and analytics on team performance and hiring efficiency, with GDPR-compliant data handling. Glorri markets plans (Pay as you go, Flex, Corporate, and Enterprise Plus) for companies of different sizes, with custom integrations and a branded career page available on higher tiers. The company was surfaced as a portfolio company of 500 Global and added to the API Evangelist network; as of this enrichment pass Glorri publishes a web application and marketing site but no public developer portal, API documentation, or machine-readable API specification.
 
-Backed by: 500-global — https://glorri.com
+**Areas:** Company · Human Resources · Recruiting · Applicant Tracking · Talent Acquisition · Hiring · Recruiting Automation · Software-as-a-Service
+
+## GLORRI on APIs.io
+
+Everything profiled for GLORRI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/glorri-inc/](https://apis.io/providers/glorri-inc/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://glorri.com)
+- [Pricing](https://glorri.com/en/pricing)
+- [Sign up](https://atsapp.glorri.com/sign-up/company)
+- [Support](https://glorri.com/en/contact)
+- [Blog](https://glorri.com/blog/)
+- [Terms of service](https://glorri.com/en/terms)
+- [Privacy policy](https://glorri.com/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 12.2** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 38.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.8** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/glorri-inc/](https://apis.io/providers/glorri-inc/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GLORRI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/glorri-inc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
